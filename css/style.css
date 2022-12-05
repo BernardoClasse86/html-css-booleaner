@@ -1,5 +1,6 @@
 .page-margin {
     margin-left: 10%;
+    margin-right: 10%;
 }
 
 /* sfondo e logo boolean */
@@ -18,3 +19,22 @@
 }
 
 /* sfondo e logo boolean aggiunti */
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 0px;
+}
+
+.line {
+    line-height: 2px;
+}
+
+#colore {
+    color: grey;
+}
+
+#grandezza {
+    font-size: 14px;
+}
