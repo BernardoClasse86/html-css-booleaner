@@ -1,0 +1,20 @@
+.page-margin {
+    margin-left: 10%;
+}
+
+/* sfondo e logo boolean */
+
+.sfondo {
+    width: 100%;
+    height: 175px;
+    background-image: url("../img/pattern.png");
+    background-color: cornflowerblue;
+}
+
+.logo {
+    width: 15%;
+    height: 15%;
+    margin-top: 80px;
+}
+
+/* sfondo e logo boolean aggiunti */
