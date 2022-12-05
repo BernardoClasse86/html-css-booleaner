@@ -20,6 +20,8 @@
 
 /* sfondo e logo boolean aggiunti */
 
+/* stile descrizione con foto */
+
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 40px;
@@ -37,4 +39,10 @@ h1 {
 
 #grandezza {
     font-size: 14px;
+}
+
+/* stile descrizione e foto aggiunto */
+
+.marker {
+    background-color: yellow;
 }
